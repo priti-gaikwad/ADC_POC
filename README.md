@@ -1,0 +1,2 @@
+# ADC_POC
+POC done of ADS1271,AD7768
